@@ -96,6 +96,7 @@ vii. Die Richtlinie über die Erstattung von Reisekosten und Auslagen
 viii. Anträge des Vorstandes und der Mitglieder  
 ix. Die Ernennung von Ehrenmitgliedern.  
 x. Die Auflösung des Vereins.  
+xi. Die Genehmigung einer Geschäftsordnung
   
 b) Die ordentliche Mitgliederversammlung findet alle zwei Jahre statt.  
 Ausserordentliche Mitgliederversammlungen werden auf Beschluss des Vorstandes abgehalten, wenn die Interessen des Vereins dies erfordern, oder wenn mindestens zehn Mitglieder dies unter Angabe des Zwecks in Textform beantragen.  
@@ -121,6 +122,9 @@ Eine Einschränkung der Vollmacht durch den Bevollmächtigenden ist nicht mögli
 g) Auf Antrag eines Mitglieds ist geheim abzustimmen.  
 Über die Beschlüsse der Mitgliederversammlung ist ein Protokoll anzufertigen, das vom Versammlungsleiter und dem Protokollführer zu unterzeichnen ist.  
 Das Protokoll ist allen Mitgliedern zugänglich zu machen und auf der nächsten Mitgliederversammlung genehmigen zu lassen.
+
+h) Satzungsänderungen, die von Aufsichts-, Gerichts- oder Finanzbehörden aus formalen Gründen verlangt werden, kann der Vorstand von sich aus vornehmen.
+Diese Satzungsänderungen müssen allen Vereinsmitgliedern alsbald schriftlich mitgeteilt werden.
 
 ## §9 Vorstand
 
