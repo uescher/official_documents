@@ -125,7 +125,6 @@ Das Protokoll ist allen Mitgliedern zugänglich zu machen und auf der nächsten 
 ## §9 Vorstand
 
 a) Der Vorstand besteht aus einem Vorsitzenden (“1. Vorstand”), einem Schatzmeister (“Kassenwart”) und einem Schriftführer.  
-Es können zwei stellvertretende Vorsitzende (“stellvertretender Vorstand”) und zwei weitere Beisitzer gewählt werden.  
   
 b) In den Vorstand dürfen nur natürliche Personen gewählt werden.  
   
