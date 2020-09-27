@@ -55,7 +55,8 @@ Andere Rechte und Pflichten bleiben hiervon unberührt.
 
 f) Der Vorstand kann ein Mitglied von der Mitgliederliste streichen, wenn:
 i. die Mitgliedsbeiträge trotz Mahnung in nicht gezahlt werden
-ii. Der Wohnsitz ohne Mitteilung an den Verein gewechselt wurde oder das Mitglied in Textform nicht mehr erreichbar ist
+ii. der Wohnsitz ohne Mitteilung an den Verein gewechselt wurde
+iii. das Mitglied in Textform nicht mehr erreichbar ist
 
 ## §4 Rechte und Pflichten der Mitglieder
 
