@@ -70,7 +70,7 @@ d) Mitglieder die durch Beitragsrückstand in die passiven Mitgliedschaft gewech
 
 ## §5 Ausschluss eines Mitglieds
 
-Ein Mitglied kann durch Beschluss des Vorstandes ausgeschlossen werden, wenn es das Ansehen des Vereins schädigt, seinen Beitragsverpflichtungen nicht nachkommt und einen Beitragsrückstand in Höhe von 3 Monatsbeiträgen nicht beglichen hat oder wenn ein sonstiger wichtiger Grund vorliegt.  
+Ein Mitglied kann durch Beschluss des Vorstandes ausgeschlossen werden, wenn es das Ansehen des Vereins schädigt, seinen Beitragsverpflichtungen nicht nachkommt  oder wenn ein sonstiger wichtiger Grund vorliegt.  
 Der Vorstand muss dem auszuschließenden Mitglied den Beschluss in Textform unter Angabe von Gründen mitteilen und ihm auf Verlangen eine Anhörung gewähren.  
 Gegen den Beschluss des Vorstandes ist die Anrufung der Mitgliederversammlung zulässig.  
 Bis zum Beschluss der Mitgliederversammlung ruht die Mitgliedschaft.
